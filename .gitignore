@@ -153,3 +153,4 @@ fabric.properties
 # Custom
 
 data/
+.DS_Store
